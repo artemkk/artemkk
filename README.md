@@ -1,6 +1,6 @@
 - I’m @artemkk
 - I’m interested in ... data analytics, finance, python, russian classics, history, soviet film, cooking, & calisthenics. 
-- I’m currently learning ... Assembly on x86 & algorithm solving techniques/approaches. 
+- I’m currently learning ... C and the overall Linux ecosystem. 
 - I’m looking to collaborate on ... nothing at the moment.
 - How to reach me ... drop me a line on discord: Artem#3826
 
