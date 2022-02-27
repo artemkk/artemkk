@@ -1,5 +1,5 @@
 - I’m @artemkk
-- I’m interested in ... reading, history, soviet film, and cooking. 
+- I’m interested in ... reading, history, film, and cooking. 
 - I’m currently learning ... C and the overall Linux ecosystem. 
 - I’m looking to collaborate on ... nothing particular at the moment.
 - How to reach me ... drop me a line on discord: Artem#3826
