@@ -1,4 +1,4 @@
-- I’m @artemkk
+- I’m @artemkk (artemkuryachy.com)
 - I’m interested in ... reading, history, film, and cooking. 
 - I’m currently learning ... C and the overall Linux ecosystem. 
 - I’m looking to collaborate on ... nothing particular at the moment.
