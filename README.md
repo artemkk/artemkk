@@ -1,6 +1,6 @@
 - I’m @artemkk (artemkuryachy.com)
 - I’m interested in ... reading, history, film, and cooking. 
-- I’m currently learning ... the OSS ecosystem and neural networks. 
+- I’m currently learning ... Kubernetes, AWS, and Docker. 
 - I’m looking to collaborate on ... nothing particular at the moment.
 
 <!---
