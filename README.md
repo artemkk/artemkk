@@ -1,6 +1,6 @@
 - I’m @artemkk (artemkuryachy.blogspot.com)
 - I’m interested in ... reading, history, film, and cooking. 
-- I’m currently learning ... Kubernetes, AWS, and Docker. 
+- I’m currently learning ... Leetcode, Data Warehousing fundamentals and Flask. 
 - I’m looking to collaborate on ... nothing particular at the moment.
 
 <!---
